@@ -1,7 +1,7 @@
 //Best case: O(n), when the array is already sorted
 //Worst case: O(n^2), when the array is reverse sorted
 //Average case: O(n^2)
-//Space: O(1), we need one additional memory space for temp variable for swapping
+//Space: O(1), as it's an in place algorithm
 
 #include <bits/stdc++.h>
 
